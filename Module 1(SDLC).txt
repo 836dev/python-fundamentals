@@ -1,0 +1,68 @@
+1. What is Software?
+
+Software refers to a collection of programs, data, and instructions that tell a computer how to perform specific tasks. It is a non-tangible component of a computer system and is responsible for managing and controlling the hardware. Software can be broadly categorized into two main types:
+
+System Software: This type of software is responsible for managing and controlling the computer hardware. It includes operating systems (like Windows, macOS, and Linux), device drivers, and utility programs that help the computer run efficiently. System software provides a foundation for other software to run and interact with the hardware.
+
+Application Software: Application software is designed for specific tasks or applications. It includes a wide range of programs and applications used for various purposes, such as word processors, web browsers, video games, accounting software, and more. These programs are created to solve specific problems or meet particular user needs.
+
+Software is typically written in programming languages such as C++, Java, Python, and many others. It can be developed by individuals, software development companies, or open-source communities. The process of creating software involves designing, coding, testing, and debugging to ensure that the program functions correctly and efficiently.
+
+Software plays a crucial role in modern computing and technology, as it enables computers and devices to perform a wide range of tasks and functions, from basic operations to complex data processing and automation.
+
+2. What are the types of application of software?
+
+The application software is divided into two main categories. The first is general software like word processors, web browsers, spreadsheet software, etc. The second type of software is custom software customized according to the need of the user and their organizational needs.
+
+Word processing software like; MS Word, WordPad, and Notepad
+Database software like Oracle, MS Access, etc.
+Spreadsheet software like Apple Numbers, Microsoft Excel, etc
+Multimedia software like Real Player, Media Player, etc.
+
+3. What is Programming?
+
+Programming, also known as coding or software development, is the process of creating computer programs by instructing a computer to perform specific tasks. A computer program is a set of instructions written in a programming language that a computer can understand and execute. Here are some key aspects of programming.
+
+A programming language is a set of instructions and syntax used to create software programs. Some of the key features of programming languages include:
+
+Syntax: The specific rules and structure used to write code in a programming language.
+Data Types: The type of values that can be stored in a program, such as numbers, strings, and booleans.
+Variables: Named memory locations that can store values.
+Operators: Symbols used to perform operations on values, such as addition, subtraction, and comparison.
+Control Structures: Statements used to control the flow of a program, such as if-else statements, loops, and function calls.
+Libraries and Frameworks: Collections of pre-written code that can be used to perform common tasks and speed up development.
+Paradigms: The programming style or philosophy used in the language, such as procedural, object-oriented, or functional.
+
+4. What is Python?
+
+Python is a high-level, general-purpose, and interpreted programming language used in various sectors including machine learning, artificial intelligence, data analysis, web development, and many more. Python is known for its ease of use, powerful standard library, and dynamic semantics. It also has a large community of developers who keep on contributing towards its growth. The major focus behind creating it is making it easier for developers to read and understand, also reducing the lines of code.
+
+Features of Python:
+
+Easy to read and understand
+Interpreted language
+Object-oriented programming language
+Free and open-source
+Versatile and Extensible
+Multi-platform
+Hundreds of libraries and frameworks
+Flexible, supports GUI
+Dynamically typed
+Huge and active community
+
+Advantages of Python:
+Easy to learn, read, and understand
+Versatile and open-source
+Improves productivity
+Supports libraries
+Huge library
+Strong community
+Interpreted language
+
+Disadvantages of Python:
+
+Restrictions in design
+Memory inefficient
+Weak mobile computing
+Runtime errors
+Slow execution speed
